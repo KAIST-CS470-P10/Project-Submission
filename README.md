@@ -2,8 +2,8 @@
 A repository built to deliver the final byproduct of the team project conducted during CS470, 2023S.
 
 There are two repositories in this organization directly related to our project.
-- *oneformer-scripts*
-- *panoptic-lifting*
+- [*oneformer-scripts*](https://github.com/KAIST-CS470-P10/oneformer-scripts)
+- [*panoptic-lifting*](https://github.com/KAIST-CS470-P10/panoptic-lifting)
 
 Here, the repository *oneformer-scripts* contains a script file that we implemented to generate panoptic masks for RGB images under the given directory and compile the outputs that can be fed to the training script of *panoptic-lifting*.
 We provide the detailed guideline to reproduce our experiment(s) below.
