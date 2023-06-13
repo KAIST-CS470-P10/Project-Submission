@@ -8,7 +8,7 @@ There are two repositories in this organization directly related to our project.
 Here, the repository *oneformer-scripts* contains a script file that we implemented to generate panoptic masks for RGB images under the given directory and compile the outputs that can be fed to the training script of *panoptic-lifting*.
 We provide the detailed guideline to reproduce our experiment(s) below.
 
-## Generating Panoptic Masks for Images
+## How to Reproduce Experimental Results
 
 To prepare training data for the later steps, please follow the steps below:
 
