@@ -91,3 +91,5 @@ if __name__ == "__main__":
 ```
 
 6. After running the script, you can start training Panoptic Lifting model using the newly created dataset. Please refer to the README.md of [*panoptic-lifting*](https://github.com/KAIST-CS470-P10/panoptic-lifting) for the detailed instruction.
+
+7. You can monitor the training progress on [*W&B*](https://wandb.ai). After finish training, follow the instructions in Section *Evaluation* of the README.md of [*panoptic-lifting*](https://github.com/KAIST-CS470-P10/panoptic-lifting) to compute the metrics reported in our poster.
